@@ -1,6 +1,6 @@
 {
   "name": "protractor-jingyan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JingYan Dual Axis Digital Protractor ",
   "main": "built/index.js",
   "types": "built/index.d.ts",
