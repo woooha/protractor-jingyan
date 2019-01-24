@@ -1,0 +1,27 @@
+{
+  "name": "protractor-jingyan",
+  "version": "1.0.0",
+  "description": "JingYan Dual Axis Digital Protractor ",
+  "main": "built/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/woooha/protractor-jingyan.git"
+  },
+  "keywords": [
+    "protractor",
+    "jingyan"
+  ],
+  "author": "woooha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woooha/protractor-jingyan/issues"
+  },
+  "homepage": "https://github.com/woooha/protractor-jingyan#readme",
+  "dependencies": {
+    "rxjs": "^6.3.3",
+    "serialport": "^7.1.4"
+  }
+}
